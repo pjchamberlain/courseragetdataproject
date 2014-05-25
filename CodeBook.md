@@ -13,7 +13,9 @@
 4. Standardises the variable names according to the style guide for this course: all lower case with all punctuation characters removed 
 5. Creates a second, independent tidy data set with the mean for each variable by activity and by subject. 
 
-###variables in the output file means.csv
+##Output
+The script creates a CSV file named means.csv containing the mean values by activity and subject for each of the mean and standard deviation measures in the source data.
+
 The first 3 variables identify the data by activity and subject
 
 |Variable Name|Comments|
@@ -22,7 +24,7 @@ The first 3 variables identify the data by activity and subject
 |"activityid"|activity id numbers 1 - 6|
 |"subjectid"|subject id numbers|
  
-The following variables hold the means for each measure by subject and activity 
+The remaining variables hold the mean valuesfor each measure by subject and activity 
 (across the merged test and train data sets)
 
 |Variable Name|Comments|
