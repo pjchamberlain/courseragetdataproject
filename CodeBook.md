@@ -16,19 +16,13 @@
 ##Output
 The script creates a CSV file named means.csv containing the mean values by activity and subject for each of the mean and standard deviation measures in the source data.
 
-The first 3 variables identify the data by activity and subject
+The first 3 variables identify the data by activity and subject. The remaining variables hold the mean valuesfor each measure by subject and activity (across the merged test and train data sets)
 
 |Variable Name|Comments|
 |-------------|---------|
 |"activityname"|WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING|
 |"activityid"|activity id numbers 1 - 6|
 |"subjectid"|subject id numbers|
- 
-The remaining variables hold the mean valuesfor each measure by subject and activity 
-(across the merged test and train data sets)
-
-|Variable Name|Comments|
-|-------------|---------|
 |"tbodyaccmeanx"||
 |"tbodyaccmeany"||
 |"tbodyaccmeanz"||               
