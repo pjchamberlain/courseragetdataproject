@@ -27,7 +27,7 @@ The following variables hold the means for each measure by subject and activity
 
 |Variable Name|Comments|
 |-------------|---------|
- |"tbodyaccmeanx"||
+|"tbodyaccmeanx"||
 |"tbodyaccmeany"||
 |"tbodyaccmeanz"||               
 |"tbodyaccstdx"||
