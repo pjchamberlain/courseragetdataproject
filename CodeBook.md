@@ -20,8 +20,8 @@ The first 3 variables identify the data by activity and subject. The remaining v
 
 |Variable Name|Comments|
 |-------------|---------|
-|"activityname"|WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING|
-|"activityid"|activity id numbers 1 - 6|
+|"activityname"|activity names: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING|
+|"activityid"|activity id: numbers 1 - 6|
 |"subjectid"|subject id numbers|
 |"tbodyaccmeanx"||
 |"tbodyaccmeany"||
